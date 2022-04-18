@@ -1,0 +1,16 @@
+.navegacion {
+    display: flex;
+    margin: 0 auto;
+    padding: 15px;   
+    justify-content: flex-end; 
+    color: #242424;
+    background-color: #66d7d1;   
+}
+
+.enlace {
+    font-weight: 700;
+    font-size: large;
+    padding: 0 15px 0 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
