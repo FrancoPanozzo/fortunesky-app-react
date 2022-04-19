@@ -1,0 +1,11 @@
+{
+    "semi": false,
+    "arrowParens": "always",
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "pugBracketSameLine": false,
+    "pugSingleQuote": false,
+    "pugAttributeSeparator": "none",
+    "pugWrapAttributesThreshold": 0
+}
